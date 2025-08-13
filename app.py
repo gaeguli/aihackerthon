@@ -44,7 +44,7 @@ class YOLOApp(QWidget):
 
         self.setLayout(self.layout)
 
-        self.model = YOLO("/home/user/ai_hackathon/runs/segment/final2/weights/best.pt")
+        self.model = YOLO("best.pt")
 
         self.summery_list = []
 
