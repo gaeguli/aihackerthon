@@ -16,9 +16,9 @@ uv run app.py
 ```
 
 # How does it work?
-1. Click the `Open Image` button to select a photo.
+1. Click the `Open Img` button to select a photo.
 2. The trained YOLO model runs inference on the selected image.
-3. Click the `Send Result button` to send YOLO’s prediction to ChatGPT for analysis, which will then suggest appropriate actions.
+3. Click the `Send Result` button to send YOLO’s prediction to ChatGPT for analysis, which will then suggest appropriate actions.
 # Preview
 <img src="img/img1.png">
 
