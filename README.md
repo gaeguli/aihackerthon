@@ -6,6 +6,8 @@ A YOLO-based application that predicts the potential risk of building collapse f
 ⚠️ Make sure the OPENAI_API_KEY is registered as an environment variable. This project uses GPT-4.1 mini.
 
 ⚠️ It is recommended to install packages using uv for faster and more reliable setup.
+
+⚠️ Currently, only Korean is supported.
 ```
 git clone https://github.com/gaeguli/smart_crack_detection.git
 cd smart_crack_detection
